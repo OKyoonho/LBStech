@@ -1,0 +1,32 @@
+train: D:\\ex\\data\\train_1\\images
+val: D:\\ex\\data\\val_1\\images
+# test: ../test/images
+
+nc: 27
+names: ['barricade',
+  'bench',
+  'bicycle',
+  'bollard',
+  'bus',
+  'car',
+  'carrier',
+  'cat',
+  'chair',
+  'dog',
+  'fire_hydrant',
+  'kiosk',
+  'motorcycle',
+  'movable_signage',
+  'parking_meter',
+  'person',
+  'pole',
+  'potted_plant',
+  'scooter',
+  'stop',
+  'stroller',
+  'table',
+  'traffic_light',
+  'traffic_sign',
+  'tree_trunk',
+  'truck',
+  'wheelchair']
